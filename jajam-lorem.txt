@@ -8,6 +8,8 @@ Belarar Vue
 Belajar Laravel
 Belajar Python
 
+Struktur Data dan Algoritma
+
 Lorem ipsum dolor sit amer
 
 1. Lorem ipsum dolor sit amer
